@@ -16,7 +16,7 @@ app.use(cors());
 app.use("/posts", postRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Hello to Memories API");
+  res.send("Hello to InstaMemories API");
 });
 
 const PORT = process.env.PORT || 5000;
