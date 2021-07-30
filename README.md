@@ -1,5 +1,5 @@
 # [InstaMemories](https://l20-instamemories.netlify.app/posts)
-This is a full stack social media application using MERN stack where users can view, search, and like various posts (memories) and add there own memories, likes, and comments by signing in locally or with Google.
+This is a full-stack social media application using the MERN stack where users can view, search, and like various posts (memories) and add their own memories, likes, and comments by signing in locally or with Google.
 
 ![0](https://user-images.githubusercontent.com/49761123/127599103-f427a121-5791-4c27-ab59-4e445ecc86c6.jpg)
 ![1](https://user-images.githubusercontent.com/49761123/127599111-15649eba-6231-4c1d-a4e0-94ad111d9bb6.jpg)
